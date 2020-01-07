@@ -1,6 +1,5 @@
 *.class
 /data/
-/jars/
 /build/
 /.gradle/
 .pydevproject
