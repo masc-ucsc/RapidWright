@@ -1,5 +1,6 @@
 *.class
-/data/
+*.zip
+*.tar.gz
 /build/
 /.gradle/
 .pydevproject
