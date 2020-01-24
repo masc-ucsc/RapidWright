@@ -7,7 +7,7 @@ MASC_PATH := $(shell pwd)/..
 
 .PHONYL: all
 
-all: install extract remove_jars remove_kryo
+all: install extract compile_test remove_jars
 
 install:
 	wget https://github.com/Xilinx/RapidWright/releases/download/v2019.2.0-beta/rapidwright_data.zip
